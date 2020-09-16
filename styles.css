@@ -1,0 +1,56 @@
+/* Header */
+
+body {
+    color: rgb(255, 217, 0);
+    background-color: black;
+    font-family: sans-serif;
+    margin: 0px auto;
+    width: 960px;
+    float: center;
+}
+
+ header {
+    height: 200px;
+ }
+ 
+ h1 {
+    text-align: center;
+
+ }
+
+ nav {
+    float: right;
+ }
+
+ header li {
+    display: inline-block;
+    width: 130px;
+    background-color: gold;
+    padding: 15px;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    margin: 5px;
+
+
+ }
+
+ a:link {
+    color:green;
+  }
+
+  a:hover {
+    color: hotpink;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
